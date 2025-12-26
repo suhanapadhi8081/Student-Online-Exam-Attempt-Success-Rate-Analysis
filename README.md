@@ -18,3 +18,24 @@ This Student Online Exam Attempt Success Rate Analysis based on Python based lib
 
 ## How to run
 1. Install dependencies
+
+File Structure: 
+
+Technical-Training-Project/
+│
+├── data/
+│   └── (generated CSV files will go here)
+│
+├── src/
+│   └── exam_analysis.py
+│
+├── notebooks/
+│   └── exam_analysis.ipynb
+│
+├── plots/
+│   └── (generated plots will go here)
+│
+├── app.py               # Streamlit UI
+├── README.md
+├── requirements.txt
+└── .gitignore
