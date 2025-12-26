@@ -39,6 +39,7 @@ Technical-Training-Project/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+<img width="570" height="462" alt="image" src="https://github.com/user-attachments/assets/257aa09c-51e8-4921-be08-cdda787372c3" />
 
 
 
