@@ -39,3 +39,20 @@ Technical-Training-Project/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+
+
+How to Run Everything
+
+Install dependencies
+
+pip install -r requirements.txt
+
+
+Run the original analysis script
+
+python src/exam_analysis.py
+
+Runinng the Streamlit UI
+
+streamlit run app.py
