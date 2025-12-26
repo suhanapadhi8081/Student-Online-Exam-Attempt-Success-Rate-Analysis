@@ -21,24 +21,6 @@ This Student Online Exam Attempt Success Rate Analysis based on Python based lib
 
 File Structure: 
 
-Technical-Training-Project/
-│
-├── data/
-│   └── (generated CSV files will go here)
-│
-├── src/
-│   └── exam_analysis.py
-│
-├── notebooks/
-│   └── exam_analysis.ipynb
-│
-├── plots/
-│   └── (generated plots will go here)
-│
-├── app.py               # Streamlit UI
-├── README.md
-├── requirements.txt
-└── .gitignore
 <img width="570" height="462" alt="image" src="https://github.com/user-attachments/assets/257aa09c-51e8-4921-be08-cdda787372c3" />
 
 
